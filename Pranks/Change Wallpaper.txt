@@ -4,7 +4,7 @@ REM Author: @beigeworm | https://github.com/beigeworm
 REM Description: Uses Powershell to retrieve an image from a specified URL and sets it as the wallpaper.
 REM Target: Windows 10,11
 
-REM **Change INSERT_IMAGE_URL_HERE to a direct link for an image.**
+REM **https://www.google.com/url?sa=i&url=https%3A%2F%2Fcatholicfootnotes.com%2Fon-blobfish-commenting-guidelines%2F&psig=AOvVaw1cpGXpfjl5rdF_6ZNmrZeZ&ust=1744123348852000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCL6PaTxowDFQAAAAAdAAAAABAE**
 
 DEFAULT_DELAY 100
 
